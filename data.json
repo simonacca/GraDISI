@@ -1,0 +1,109 @@
+{
+  "grades":[
+    {
+      "name":"Analisi Matematica 1",
+      "weight":12,
+      "grade":0
+    },
+    {
+      "name":"Geometria e algebra lineare",
+      "weight":6,
+      "grade":0
+    },
+    {
+      "name":"Programmazione 1",
+      "weight":12,
+      "grade":0
+    },
+    {
+      "name":"Calcolatori",
+      "weight":6,
+      "grade":0
+    },
+    {
+      "name":"Fondamenti matematici per l'informatica",
+      "weight":6,
+      "grade":0
+    },
+    {
+      "name":"Probabilita e statistica",
+      "weight":6,
+      "grade":0
+    },
+    {
+      "name":"Linguaggi di programmazione(modulo 1 e modulo 2)",
+      "weight":6,
+      "grade":0
+    },
+    {
+      "name":"Algoritmi e strutture dati",
+      "weight":12,
+      "grade":0
+    },
+    {
+      "name":"Ingegneria del software 1",
+      "weight":6,
+      "grade":0
+    },
+    {
+      "name":"Logica",
+      "weight":6,
+      "grade":0
+    },
+    {
+      "name":"Basi di Dati",
+      "weight":6,
+      "grade":0
+    },
+    {
+      "name":"Reti",
+      "weight":6,
+      "grade":0
+    },
+    {
+      "name":"Sistemi operativi 1",
+      "weight":12,
+      "grade":0
+    },
+    {
+      "name":"Ingegneria del software 2",
+      "weight":6,
+      "grade":0
+    },
+    {
+      "name":"Fisica",
+      "weight":6,
+      "grade":0
+    },
+    {
+      "name":"Introduzione alla programmazione per in Web",
+      "weight":6,
+      "grade":0
+    },
+    {
+      "name":"Linguaggi formali e compilatori",
+      "weight":12,
+      "grade":0
+    },
+    {
+      "name":"Interazione Uomo-Macchina",
+      "weight":6,
+      "grade":0
+    },
+    {
+      "name":"Algoritmi avanzati",
+      "weight":6,
+      "grade":0
+    },
+    {
+      "name":"Laboratorio di programmazione per sistemi mobili e tablet",
+      "weight":6,
+      "grade":0
+    },
+    {
+      "name":"Reti avanzate",
+      "weight":6,
+      "grade":0
+    }
+  ]
+}
