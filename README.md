@@ -4,6 +4,8 @@
 GraDISI is a CLI utility to compute your expected graduation score at DISI,
 University of Trento, Italy.
 
+All the information is taken from the [Manifesto Laurea triennale in informatica](http://web.unitn.it/files/download/38715/man-lt-inf_0.pdf) and the [Regolamento di prova finale e conferimento del titolo](http://web.unitn.it/files/download/38584/disicorretta_0.pdf)
+
 ## Installation
 
 ```
