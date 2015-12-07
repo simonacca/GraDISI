@@ -32,7 +32,13 @@ Now, the software can be used in two modes:
 4. change your grades leaving `0` for the exam you haven't done yet
 5. Invoke `./gradisi.py --final X --date Y` where `X` is your expected frade for the final exam and `Y` is the `date parameter`
 
+#### Expected average
 
+You can ask GraDISI for the `average` you have to mantain in your upcoming exams in order to graduate with a certain `expected` grade.
+
+For example, if I want to graduate with `110`:
+
+`./gradisi.py --final X --date Y --expected 110`
 ### Supply the average by hand
 
 3. Invoke `./gradisi.py --final X --date Y --average Z` supplying `X,Y,Z` as described before
